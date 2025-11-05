@@ -147,8 +147,9 @@ defmodule GithubStarsUpdater do
   end
 
   defp update_top_projects_section(content, stars_map) do
-    # Find project names from original content
+    # Find project names and descriptions from original content
     repo_names = extract_repo_names(content)
+    repo_descriptions = extract_repo_descriptions(content)
 
     # Sort projects by stars count (top 8)
     top_projects =
@@ -157,7 +158,13 @@ defmodule GithubStarsUpdater do
       |> Enum.take(8)
       |> Enum.map(fn {repo, stars} ->
         name = Map.get(repo_names, repo, repo)
-        "- [#{name}](https://github.com/#{@owner}/#{repo}) ⭐ #{stars}"
+        description = Map.get(repo_descriptions, repo, "")
+
+        if description != "" do
+          "- [#{name}](https://github.com/#{@owner}/#{repo}) – #{description} ⭐ #{stars}"
+        else
+          "- [#{name}](https://github.com/#{@owner}/#{repo}) ⭐ #{stars}"
+        end
       end)
       |> Enum.join("\n")
 
@@ -194,6 +201,16 @@ defmodule GithubStarsUpdater do
     ~r/\[([^\]]+)\]\(https:\/\/github\.com\/#{@owner}\/([^\)]+)\)/
     |> Regex.scan(content, capture: :all_but_first)
     |> Enum.map(fn [name, repo] -> {repo, name} end)
+    |> Map.new()
+  end
+
+  defp extract_repo_descriptions(content) do
+    # Extract project lines with descriptions
+    ~r/- \[([^\]]+)\]\(https:\/\/github\.com\/#{@owner}\/([^\)]+)\).*? – ([^\n]+)/
+    |> Regex.scan(content, capture: :all_but_first)
+    |> Enum.map(fn [_name, repo, description] ->
+      {repo, String.trim(description)}
+    end)
     |> Map.new()
   end
 end
