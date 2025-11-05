@@ -159,7 +159,7 @@ defmodule GithubStarsUpdater do
       |> Enum.map(fn {repo, stars} ->
         name = Map.get(repo_names, repo, repo)
         description = Map.get(repo_descriptions, repo, "")
-        prefix = "- [#{name}](https://github.com/#{@owner}/#{repo}) ⭐ #{stars}"
+        prefix = "- [#{name}](https://github.com/#{@owner}/#{repo}) ⭐ <strong>#{stars}</strong>"
 
         if description != "" do
           "#{prefix} – #{description}"
