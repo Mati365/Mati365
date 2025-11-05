@@ -2,39 +2,51 @@
 
 A collection of my open-source projects – from a C compiler to CKEditor integrations, AI experiments, and small engineering side quests. Most of them started as “can I make this work?” kind of challenges.
 
+## 🏆 Top 8 Projects
+
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 396
+- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 156
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ 151
+- [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 78
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 77
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 71
+- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 69
+- [reddit-news](https://github.com/Mati365/reddit-news) ⭐ 50
+
+
 ## ⚙️ Compilers and Low-Level Experiments
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
-- [ts-union-struct](https://github.com/Mati365/ts-union-struct) – C-style unions and structs implemented in TypeScript with real memory layout simulation.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 396 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
 
 ## 📝 CKEditor 5 Integrations
-- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) – CKEditor 5 integration for PHP Livewire.
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) – CKEditor 5 integration package for Elixir/Phoenix.
-- [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) – CKEditor 5 integration for Ruby on Rails.
-- [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 77 – CKEditor 5 integration package for Elixir/Phoenix.
+- [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 38 – CKEditor 5 integration for Ruby on Rails.
+- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 33 – CKEditor 5 integration for PHP Livewire.
+- [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
 
 ## 🧠 AI, Neural & Data Projects
-- [neural-cars](https://github.com/Mati365/neural-cars) – Small neural network simulation that learns to drive tiny cars.
-- [reddit-news](https://github.com/Mati365/reddit-news) – News aggregator powered by Reddit data.
-- [librus-api](https://github.com/Mati365/librus-api) – Reverse-engineered API for the Polish school platform “Librus”.
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ 151 – Reverse-engineered API for the Polish school platform “Librus”.
+- [reddit-news](https://github.com/Mati365/reddit-news) ⭐ 50 – News aggregator powered by Reddit data.
+- [neural-cars](https://github.com/Mati365/neural-cars) ⭐ 27 – Small neural network simulation that learns to drive tiny cars.
 
 ## 🖥️ DevOps, Infrastructure & Automation
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
-- [hetzner-minio-backup-server](https://github.com/Mati365/hetzner-minio-backup-server) – Automated MinIO backup server for Hetzner.
-- [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) – Affordable self-hosted Nomad cluster setup.
-- [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
-- [rails-critical-css](https://github.com/Mati365/rails-critical-css) – Generates critical CSS for Rails apps to improve performance.
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 71 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
+- [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 17 – Affordable self-hosted Nomad cluster setup.
+- [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 8 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
+- [rails-critical-css](https://github.com/Mati365/rails-critical-css) ⭐ 7 – Generates critical CSS for Rails apps to improve performance.
+- [hetzner-minio-backup-server](https://github.com/Mati365/hetzner-minio-backup-server) ⭐ 4 – Automated MinIO backup server for Hetzner.
 
 ## 🎮 Games, Hardware & Fun
-- [arduino-tetris](https://github.com/Mati365/arduino-tetris) – Tetris implemented on Arduino.
-- [micro-racing](https://github.com/Mati365/micro-racing) – Minimalistic browser racing game with micro-AI.
-- [pyWinUSB](https://github.com/Mati365/pyWinUSB) – Python library for simple USB device communication on Windows.
-- [chrome-otp](https://github.com/Mati365/chrome-otp) – Chrome extension for generating and autofilling 2FA one-time passwords.
-- [Soccer.js](https://github.com/Mati365/Soccer.js) – Physics-based soccer simulation in JavaScript.
+- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 156 – Minimalistic browser racing game with micro-AI.
+- [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 78 – Python library for simple USB device communication on Windows.
+- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 69 – Physics-based soccer simulation in JavaScript.
+- [chrome-otp](https://github.com/Mati365/chrome-otp) ⭐ 9 – Chrome extension for generating and autofilling 2FA one-time passwords.
+- [arduino-tetris](https://github.com/Mati365/arduino-tetris) ⭐ 2 – Tetris implemented on Arduino.
 
 ## 🌐 Web Experiments & Misc
-- [under-control](https://github.com/Mati365/under-control) – A self-hosted productivity dashboard and control center.
-- [upolujksiazke.pl](https://github.com/Mati365/upolujksiazke.pl) – A Polish book price tracking website.
-- [WykopExt](https://github.com/Mati365/WykopExt) – Browser extension improving UX of the Polish social site Wykop.
+- [upolujksiazke.pl](https://github.com/Mati365/upolujksiazke.pl) ⭐ 20 – A Polish book price tracking website.
+- [under-control](https://github.com/Mati365/under-control) ⭐ 14 – A self-hosted productivity dashboard and control center.
+- [WykopExt](https://github.com/Mati365/WykopExt) ⭐ 5 – Browser extension improving UX of the Polish social site Wykop.
 
 ---
 
