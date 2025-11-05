@@ -4,16 +4,14 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 ## 🏆 Top 8 Projects
 
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 396
-- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 156
-- [librus-api](https://github.com/Mati365/librus-api) ⭐ 151
-- [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 78
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 77
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 71
-- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 69
-- [reddit-news](https://github.com/Mati365/reddit-news) ⭐ 50
-
-
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax. ⭐ 396
+- [micro-racing](https://github.com/Mati365/micro-racing) – Minimalistic browser racing game with micro-AI. ⭐ 156
+- [librus-api](https://github.com/Mati365/librus-api) – Reverse-engineered API for the Polish school platform “Librus”. ⭐ 151
+- [pyWinUSB](https://github.com/Mati365/pyWinUSB) – Python library for simple USB device communication on Windows. ⭐ 78
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) – CKEditor 5 integration package for Elixir/Phoenix. ⭐ 77
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud. ⭐ 71
+- [Soccer.js](https://github.com/Mati365/Soccer.js) – Physics-based soccer simulation in JavaScript. ⭐ 69
+- [reddit-news](https://github.com/Mati365/reddit-news) – News aggregator powered by Reddit data. ⭐ 50
 ## ⚙️ Compilers and Low-Level Experiments
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 396 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
