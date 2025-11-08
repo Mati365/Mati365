@@ -5,7 +5,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 ## 🏆 Top 8 Projects
 
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>396</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
-- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>156</strong> – Minimalistic browser racing game with micro-AI.
+- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>157</strong> – Minimalistic browser racing game with micro-AI.
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>152</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>78</strong> – Python library for simple USB device communication on Windows.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>77</strong> – CKEditor 5 integration package for Elixir/Phoenix.
@@ -35,7 +35,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [hetzner-minio-backup-server](https://github.com/Mati365/hetzner-minio-backup-server) ⭐ 4 – Automated MinIO backup server for Hetzner.
 
 ## 🎮 Games, Hardware & Fun
-- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 156 – Minimalistic browser racing game with micro-AI.
+- [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 157 – Minimalistic browser racing game with micro-AI.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 78 – Python library for simple USB device communication on Windows.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 69 – Physics-based soccer simulation in JavaScript.
 - [chrome-otp](https://github.com/Mati365/chrome-otp) ⭐ 9 – Chrome extension for generating and autofilling 2FA one-time passwords.
