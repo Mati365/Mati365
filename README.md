@@ -6,7 +6,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>398</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>157</strong> – Minimalistic browser racing game with micro-AI.
-- [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>154</strong> – Reverse-engineered API for the Polish school platform “Librus”.
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>155</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>78</strong> – Python library for simple USB device communication on Windows.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>77</strong> – CKEditor 5 integration package for Elixir/Phoenix.
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>71</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
@@ -23,7 +23,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
 
 ## 🧠 AI, Neural & Data Projects
-- [librus-api](https://github.com/Mati365/librus-api) ⭐ 154 – Reverse-engineered API for the Polish school platform “Librus”.
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ 155 – Reverse-engineered API for the Polish school platform “Librus”.
 - [reddit-news](https://github.com/Mati365/reddit-news) ⭐ 50 – News aggregator powered by Reddit data.
 - [neural-cars](https://github.com/Mati365/neural-cars) ⭐ 27 – Small neural network simulation that learns to drive tiny cars.
 
