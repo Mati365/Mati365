@@ -42,7 +42,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [arduino-tetris](https://github.com/Mati365/arduino-tetris) ⭐ 2 – Tetris implemented on Arduino.
 
 ## 🌐 Web Experiments & Misc
-- [upolujksiazke.pl](https://github.com/Mati365/upolujksiazke.pl) ⭐ 20 – A Polish book price tracking website.
+- [upolujksiazke.pl](https://github.com/Mati365/upolujksiazke.pl) ⭐ 21 – A Polish book price tracking website.
 - [under-control](https://github.com/Mati365/under-control) ⭐ 14 – A two-way binding input library for React.
 - [WykopExt](https://github.com/Mati365/WykopExt) ⭐ 5 – Browser extension improving UX of the Polish social site Wykop.
 
