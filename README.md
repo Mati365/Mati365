@@ -7,7 +7,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>397</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>162</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>157</strong> – Minimalistic browser racing game with micro-AI.
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>83</strong> – CKEditor 5 integration package for Elixir/Phoenix.
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>84</strong> – CKEditor 5 integration package for Elixir/Phoenix.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>78</strong> – Python library for simple USB device communication on Windows.
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>72</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>69</strong> – Physics-based soccer simulation in JavaScript.
@@ -17,8 +17,8 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
 
 ## 📝 CKEditor 5 Integrations
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 83 – CKEditor 5 integration package for Elixir/Phoenix.
-- [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 43 – CKEditor 5 integration for Ruby on Rails.
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 84 – CKEditor 5 integration package for Elixir/Phoenix.
+- [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 46 – CKEditor 5 integration for Ruby on Rails.
 - [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 34 – CKEditor 5 integration for PHP Livewire.
 - [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 6 – CKEditor 5 integration for PHP Symfony.
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
@@ -31,7 +31,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 ## 🖥️ DevOps, Infrastructure & Automation
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 72 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 17 – Affordable self-hosted Nomad cluster setup.
-- [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 8 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
+- [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 7 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
 - [rails-critical-css](https://github.com/Mati365/rails-critical-css) ⭐ 7 – Generates critical CSS for Rails apps to improve performance.
 - [hetzner-minio-backup-server](https://github.com/Mati365/hetzner-minio-backup-server) ⭐ 4 – Automated MinIO backup server for Hetzner.
 
@@ -39,7 +39,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 157 – Minimalistic browser racing game with micro-AI.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 78 – Python library for simple USB device communication on Windows.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 69 – Physics-based soccer simulation in JavaScript.
-- [chrome-otp](https://github.com/Mati365/chrome-otp) ⭐ 9 – Chrome extension for generating and autofilling 2FA one-time passwords.
+- [chrome-otp](https://github.com/Mati365/chrome-otp) ⭐ 8 – Chrome extension for generating and autofilling 2FA one-time passwords.
 - [arduino-tetris](https://github.com/Mati365/arduino-tetris) ⭐ 2 – Tetris implemented on Arduino.
 
 ## 🌐 Web Experiments & Misc
