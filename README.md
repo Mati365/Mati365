@@ -30,7 +30,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 ## 🖥️ DevOps, Infrastructure & Automation
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 72 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
-- [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 17 – Affordable self-hosted Nomad cluster setup.
+- [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 18 – Affordable self-hosted Nomad cluster setup.
 - [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 7 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
 - [rails-critical-css](https://github.com/Mati365/rails-critical-css) ⭐ 7 – Generates critical CSS for Rails apps to improve performance.
 - [hetzner-minio-backup-server](https://github.com/Mati365/hetzner-minio-backup-server) ⭐ 4 – Automated MinIO backup server for Hetzner.
