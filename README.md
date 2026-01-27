@@ -4,23 +4,23 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 ## 🏆 Top 8 Projects
 
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>398</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>399</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>165</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>159</strong> – Minimalistic browser racing game with micro-AI.
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>107</strong> – CKEditor 5 integration package for Elixir/Phoenix.
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>108</strong> – CKEditor 5 integration package for Elixir/Phoenix.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>78</strong> – Python library for simple USB device communication on Windows.
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>72</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>69</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>51</strong> – CKEditor 5 integration for Ruby on Rails.
 ## ⚙️ Compilers and Low-Level Experiments
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 398 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 399 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
 
 ## 📝 CKEditor 5 Integrations
-- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 107 – CKEditor 5 integration package for Elixir/Phoenix.
+- [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 108 – CKEditor 5 integration package for Elixir/Phoenix.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 51 – CKEditor 5 integration for Ruby on Rails.
 - [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 36 – CKEditor 5 integration for PHP Livewire.
-- [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 19 – CKEditor 5 integration for PHP Symfony.
+- [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 20 – CKEditor 5 integration for PHP Symfony.
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
 
 ## 🧠 AI, Neural & Data Projects
