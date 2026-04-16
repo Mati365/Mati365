@@ -4,7 +4,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 ## 🏆 Top 8 Projects
 
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>411</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>410</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>188</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>160</strong> – Minimalistic browser racing game with micro-AI.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>123</strong> – CKEditor 5 integration package for Elixir/Phoenix.
@@ -13,15 +13,15 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>70</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>50</strong> – CKEditor 5 integration for Ruby on Rails.
 ## ⚙️ Compilers and Low-Level Experiments
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 411 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 410 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
 
 ## 📝 CKEditor 5 Integrations
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 123 – CKEditor 5 integration package for Elixir/Phoenix.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 50 – CKEditor 5 integration for Ruby on Rails.
-- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 40 – CKEditor 5 integration for PHP Livewire.
+- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 41 – CKEditor 5 integration for PHP Livewire.
 - [ckeditor5-blazor](https://github.com/Mati365/ckeditor5-blazor) ⭐ 29 – CKEditor 5 integration for .NET Blazor.
-- [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 25 – CKEditor 5 integration for PHP Symfony.
+- [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 26 – CKEditor 5 integration for PHP Symfony.
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
 
 ## 🧠 AI, Neural & Data Projects
