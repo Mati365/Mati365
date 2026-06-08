@@ -19,7 +19,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 ## 📝 CKEditor 5 Integrations
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ 126 – CKEditor 5 integration package for Elixir/Phoenix.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ 50 – CKEditor 5 integration for Ruby on Rails.
-- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 42 – CKEditor 5 integration for PHP Livewire.
+- [ckeditor5-livewire](https://github.com/Mati365/ckeditor5-livewire) ⭐ 43 – CKEditor 5 integration for PHP Livewire.
 - [ckeditor5-blazor](https://github.com/Mati365/ckeditor5-blazor) ⭐ 29 – CKEditor 5 integration for .NET Blazor.
 - [ckeditor5-symfony](https://github.com/Mati365/ckeditor5-symfony) ⭐ 26 – CKEditor 5 integration for PHP Symfony.
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
