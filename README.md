@@ -8,8 +8,8 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>194</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>161</strong> – Minimalistic browser racing game with micro-AI.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>126</strong> – CKEditor 5 integration package for Elixir/Phoenix.
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>82</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>77</strong> – Python library for simple USB device communication on Windows.
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>73</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>70</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>50</strong> – CKEditor 5 integration for Ruby on Rails.
 ## ⚙️ Compilers and Low-Level Experiments
@@ -30,7 +30,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [neural-cars](https://github.com/Mati365/neural-cars) ⭐ 27 – Small neural network simulation that learns to drive tiny cars.
 
 ## 🖥️ DevOps, Infrastructure & Automation
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 73 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 82 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 19 – Affordable self-hosted Nomad cluster setup.
 - [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 7 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
 - [rails-critical-css](https://github.com/Mati365/rails-critical-css) ⭐ 7 – Generates critical CSS for Rails apps to improve performance.
