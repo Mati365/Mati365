@@ -4,7 +4,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 
 ## 🏆 Top 8 Projects
 
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>409</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>410</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>194</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>163</strong> – Minimalistic browser racing game with micro-AI.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>127</strong> – CKEditor 5 integration package for Elixir/Phoenix.
@@ -13,7 +13,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>70</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>52</strong> – CKEditor 5 integration for Ruby on Rails.
 ## ⚙️ Compilers and Low-Level Experiments
-- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 409 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
+- [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 410 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
 - [ts-union-struct](https://github.com/Mati365/ts-union-struct) ⭐ 5 – C-style unions and structs implemented in TypeScript with real memory layout simulation.
 
 ## 📝 CKEditor 5 Integrations
