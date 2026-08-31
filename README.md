@@ -10,7 +10,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>127</strong> – CKEditor 5 integration package for Elixir/Phoenix.
 - [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>83</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>77</strong> – Python library for simple USB device communication on Windows.
-- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>70</strong> – Physics-based soccer simulation in JavaScript.
+- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>71</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>51</strong> – CKEditor 5 integration for Ruby on Rails.
 ## ⚙️ Compilers and Low-Level Experiments
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ 412 – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
@@ -39,7 +39,7 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 ## 🎮 Games, Hardware & Fun
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ 163 – Minimalistic browser racing game with micro-AI.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ 77 – Python library for simple USB device communication on Windows.
-- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 70 – Physics-based soccer simulation in JavaScript.
+- [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ 71 – Physics-based soccer simulation in JavaScript.
 - [chrome-otp](https://github.com/Mati365/chrome-otp) ⭐ 8 – Chrome extension for generating and autofilling 2FA one-time passwords.
 - [arduino-tetris](https://github.com/Mati365/arduino-tetris) ⭐ 2 – Tetris implemented on Arduino.
 
