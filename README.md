@@ -5,10 +5,10 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 ## 🏆 Top 8 Projects
 
 - [ts-c-compiler](https://github.com/Mati365/ts-c-compiler) ⭐ <strong>413</strong> – A C compiler written in TypeScript. Generates x86-16 raw binary and supports basic C syntax.
-- [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>206</strong> – Reverse-engineered API for the Polish school platform “Librus”.
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ <strong>207</strong> – Reverse-engineered API for the Polish school platform “Librus”.
 - [micro-racing](https://github.com/Mati365/micro-racing) ⭐ <strong>164</strong> – Minimalistic browser racing game with micro-AI.
 - [ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) ⭐ <strong>127</strong> – CKEditor 5 integration package for Elixir/Phoenix.
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>83</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ <strong>84</strong> – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [pyWinUSB](https://github.com/Mati365/pyWinUSB) ⭐ <strong>77</strong> – Python library for simple USB device communication on Windows.
 - [Soccer.js](https://github.com/Mati365/Soccer.js) ⭐ <strong>71</strong> – Physics-based soccer simulation in JavaScript.
 - [ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) ⭐ <strong>51</strong> – CKEditor 5 integration for Ruby on Rails.
@@ -25,12 +25,12 @@ A collection of my open-source projects – from a C compiler to CKEditor integr
 - [ckeditor5-bad-apple](https://github.com/Mati365/ckeditor5-bad-apple) ⭐ 1 – A fun experiment rendering “Bad Apple!!” video inside CKEditor 5.
 
 ## 🧠 AI, Neural & Data Projects
-- [librus-api](https://github.com/Mati365/librus-api) ⭐ 206 – Reverse-engineered API for the Polish school platform “Librus”.
+- [librus-api](https://github.com/Mati365/librus-api) ⭐ 207 – Reverse-engineered API for the Polish school platform “Librus”.
 - [reddit-news](https://github.com/Mati365/reddit-news) ⭐ 49 – News aggregator powered by Reddit data.
 - [neural-cars](https://github.com/Mati365/neural-cars) ⭐ 26 – Small neural network simulation that learns to drive tiny cars.
 
 ## 🖥️ DevOps, Infrastructure & Automation
-- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 83 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
+- [hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) ⭐ 84 – Automatic deployment setup for Bun.js apps using Podman Quadlet (SystemD) on Hetzner Cloud.
 - [nomad-cheap-cluster](https://github.com/Mati365/nomad-cheap-cluster) ⭐ 19 – Affordable self-hosted Nomad cluster setup.
 - [rails-critical-css](https://github.com/Mati365/rails-critical-css) ⭐ 8 – Generates critical CSS for Rails apps to improve performance.
 - [ansible-docker-swarm-traefik-template](https://github.com/Mati365/ansible-docker-swarm-traefik-template) ⭐ 7 – Ready-to-use Ansible template for deploying Docker Swarm with Traefik.
